@@ -1,0 +1,6 @@
+{
+  "name": "ระบบวิเคราะห์ภัยคุกคามทางนิติวิทยาศาสตร์ดิจิทัล",
+  "description": "แพลตฟอร์มวิเคราะห์หลักฐานและภัยคุกคามทางนิติวิทยาศาสตร์ดิจิทัลระดับองค์กร ตรวจจับ IOCs, จับคู่ MITRE ATT&CK, วิเคราะห์ Memory & Logs, สร้างไทม์ไลน์เหตุการณ์ และรายงานสรุปมาตรฐาน NIST SP 800-86",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
